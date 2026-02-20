@@ -12,9 +12,9 @@
 
 Open source enterprise content management system based on the Django framework and backed by the non-profit django CMS Association (`Sponsor us! <https://www.django-cms.org/en/memberships/>`_).
 
-*******************************************
+******************************
 Contribute to this project and win rewards
-*******************************************
+******************************
 
 Because django CMS is a community-driven project, we welcome everyone to `get involved in the project <https://www.django-cms.org/en/contribute/>`_. Become part of a fantastic community and help us make django CMS the best open source CMS in the world.
 
