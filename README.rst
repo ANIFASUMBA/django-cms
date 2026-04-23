@@ -103,7 +103,6 @@ Choose from a list of `trusted tech partner <https://www.django-cms.org/en/tech-
 
 Choose a `trusted web host <https://www.django-cms.org/en/hosting-services/>`_ for your django CMS project and get your website online today.
 
-
 **************************
 The django CMS Association
 **************************
