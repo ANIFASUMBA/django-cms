@@ -56,7 +56,6 @@ See the `Python/Django requirements for the current release version
 See the `installation how-to guide for an overview of some other requirements and dependencies of the current release
 <https://docs.django-cms.org/en/latest/introduction/01-install.html>`_.
 
-
 ***************
 Getting started
 ***************
