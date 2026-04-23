@@ -18,7 +18,6 @@ Contribute to this project and win rewards
 
 Because django CMS is a community-driven project, we welcome everyone to `get involved in the project <https://www.django-cms.org/en/contribute/>`_. Become part of a fantastic community and help us make django CMS the best open source CMS in the world.
 
-
 .. ATTENTION::
 
     Please use the ``develop-4`` branch as the target for pull requests for on-going development.
