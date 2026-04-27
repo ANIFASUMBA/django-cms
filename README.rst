@@ -1,4 +1,3 @@
-
  # django CMS
 .. image:: https://img.shields.io/pypi/v/django-cms.svg
     :target: https://pypi.python.org/pypi/django-cms/
