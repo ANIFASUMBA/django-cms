@@ -6,6 +6,7 @@
 .. image:: https://img.shields.io/pypi/l/django-cms.svg
     :target: https://pypi.python.org/pypi/django-cms/
 .. image:: https://codeclimate.com/github/divio/django-cms/badges/gpa.svg
+
    :target: https://codeclimate.com/github/divio/django-cms
    :alt: Code Climate
 
