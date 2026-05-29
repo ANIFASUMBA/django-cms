@@ -37,7 +37,7 @@ Features
 * a hierarchical content structure for nested plugins
 * an extensible navigation system that your own applications can hook into
 * SEO-friendly URLs
-* designed to integrate thoroughly into other applications
+* designed to integrate thoroughly into other applications.
 
 Developing applications that integrate with and take advantage of django CMS features is easy and well-documented.
 
