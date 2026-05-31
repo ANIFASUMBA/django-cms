@@ -47,7 +47,6 @@ More information on `our website <https://www.django-cms.org>`_.
 ************
 Requirements
 ************
-
 See the `Python/Django requirements for the current release version
 <http://docs.django-cms.org/en/latest/#software-version-requirements-and-release-notes>`_ in our documentation.
 
