@@ -26,6 +26,7 @@ Because django CMS is a community-driven project, we welcome everyone to `get in
 
 ********
 Features
+
 ********
 
 * hierarchical pages
